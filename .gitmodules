@@ -1,0 +1,9 @@
+[submodule "Projects/risk-parity"]
+	path = Projects/risk-parity
+	url = https://github.com/borab96/risk-parity
+[submodule "Projects/monoid"]
+	path = Projects/monoid
+	url = https://github.com/borab96/monoid
+[submodule "Projects/price-process"]
+	path = Projects/price-process
+	url = https://github.com/borab96/price-process
