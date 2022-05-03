@@ -20,5 +20,9 @@
 
 ## Forecasting
 
--  [Online random forest nowcasting](https://nbviewer.org/github/borab96/quant-finance/blob/main/Notebooks/OnlineNowcastLOB.ipynb): Per second granularity LOB forecasting using River
+- [Online random forest nowcasting](https://nbviewer.org/github/borab96/quant-finance/blob/main/Notebooks/OnlineNowcastLOB.ipynb): Per second granularity LOB forecasting using River
 
+## Filtering
+
+- [HF trade data downsnapling uncertainty](https://nbviewer.org/github/borab96/quant-finance/blob/main/Notebooks/GaussianProcInterpolation.ipynb): Gaussian process interpolation to quantify CUSUM downsampling uncertainty
+- [l1 mean and variance filtering]():
